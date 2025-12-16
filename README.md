@@ -39,6 +39,3 @@ These datasets provide a robust foundation for training our models, catering to 
 
 ## Methodologies
 Our approach integrates three main architectures: VGG16, ResNet18, and GoogLeNet. Each is chosen for its unique advantages in processing and identifying features within our varied datasets. Through a combination of data preprocessing, feature extraction, and transfer learning, we aim to build models that are highly accurate and efficient in identifying wildlife.
-
-### Link to presentation
-- ⁠[Presentation](https://drive.google.com/file/d/1bOpxsvVEDQudKzSqLb6Qoga63ngG2OCC/view?usp=drivesdk)
